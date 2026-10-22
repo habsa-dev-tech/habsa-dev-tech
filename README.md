@@ -1,8 +1,10 @@
 # Habsa Omar Ibrahim
 
-**Computer Engineer · AI & Machine Learning · University Lecturer **
+**Computer Engineer · AI & Machine Learning · University Lecturer**
 
 📍 Djibouti &nbsp;·&nbsp; 🎓 M.Sc. Computer Engineering, Istanbul Aydın University
+
+<img src="habsa.jpg" alt="Habsa Omar Ibrahim" width="200">
 
 ---
 
@@ -108,9 +110,8 @@ English · French · Arabic · Turkish · Somali
 ## 📫 Let's Connect
 
 - ✉️ **Email:** [ohabsa2@gmail.com](mailto:ohabsa2@gmail.com)
-- 💼 **LinkedIn:** `[https://www.linkedin.com/feed/]`
-- 🐙 **GitHub:** `[https://github.com/habsa-dev-techL]`
-- 🌍 **Portfolio:** `[coming soon]`
+- 💼 **LinkedIn:** [Habsa Omar Ibrahim](https://www.linkedin.com/in/habsa-omar-ibrahim-23830b33a/)
+- 🐙 **GitHub:** [github.com/habsa-dev-techL](https://github.com/habsa-dev-techL)
+- 🌍 **Portfolio:** coming soon
 
 ---
-
